@@ -1,2 +1,1 @@
-# STSCI5050-Final-Project
-Final Project for Linear Models Classs
+# NBA Overtime Analysis - STSCI 5050 Final Project 
